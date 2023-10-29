@@ -1,0 +1,43 @@
+.home {
+    margin-top: 20px;
+}
+.homeSilde h1{
+   font-size: 45px !important;
+}
+.homeSilde p{
+    margin: 20px 0px !important;
+}
+.homeSilde ul{
+    position: absolute !important;
+    bottom: 20px !important;
+}
+.homeSilde ul li{
+    border-radius: 50% !important;
+    padding: 10px !important;
+    border: 2px solid #b8b7b7 !important;
+}
+.homeSilde ul li button
+{
+    background: transparent !important;
+}
+.homeSilde ul li::before{
+    font-size: 15px;
+    color:#0f3460;
+    position: absolute;
+    top: 2px;
+    left: 0;
+    margin: auto;
+}
+.homeSilde .box{
+    display: flex !important;
+}
+.homeSilde .box .left{
+    width: 70%;
+}
+.homeSilde .box .right{
+    width: 30%;
+}
+.homeSilde .box img{
+ 
+    width: 100%;
+}
