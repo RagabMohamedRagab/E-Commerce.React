@@ -1,3 +1,6 @@
+<img src="https://github.com/darsaveli/Mariam/raw/main/1479814528_webarebears.gif" align="center" style="width: 100%;text-alight:center display: inline-block;" data-target="animated-image.originalImage">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
